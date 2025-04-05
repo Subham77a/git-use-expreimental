@@ -1,4 +1,8 @@
 Hello this is first version of our project where we just entered our git file 
 and then used "git init" and then checked the status through "git status"
-to confirm the commits we made we ill be going to use "git add" now
+to confirm the commits we made we ill be going to use "git add filename" now
 
+now after doing it we have checked it through git status
+so till here we have just added this file to git but we have not commited any of our changes
+to do so we can type
+ 
