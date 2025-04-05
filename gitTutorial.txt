@@ -1,0 +1,4 @@
+Hello this is first version of our project where we just entered our git file 
+and then used "git init" and then checked the status through "git status"
+to confirm the commits we made we ill be going to use "git add" now
+
