@@ -1,0 +1,23 @@
+So here we are going to learn everything about git and GitHub so basically git is the most famous version control currently used in industry which was developed by the creator of Linux itself as i saw in a reel. Further if we are talking about git hub it is basically to store and to host the document related to the project online so that the persons associated in it could fetch the data in it . Also it helps us to host basic websites free of cost and with ease.
+
+That's enough for the overview but if we are talking about the main functionality it do have we shall talk about git early.
+
+So as explained it is a famous version control through it a group of people can develop a same project together also it helps us in a situation where we want to revert back from the changes we did although we can save our file by commit keyword in the terminal.
+
+Talking about the step by step execution .
+1 . We are basically going to initialise out git by "git init" at the location we have to do so.
+2 . To ignore files like "node_modules" we can simple create a file name ".gitignore" and basically name the file or folder name which we want to ignore so that waste things won't be uploaded or saved on git where changes does not occur.
+3 . To update the project on GitHub we can go to GitHub and create a repository and then there would we three lines of instruction to run on command line like
+		     eg- .git remote add origin https://github.com/Subham77a/versel-bakend-.git
+                     git branch -M main
+                     git push -u origin main(-u means it uploads the files)
+we need to run the first line to save the link of GitHub on git so that the commits would be reflect back to GitHub 
+
+4 . To check the status of the git commits and the files we can simple type "git status".
+ 
+5 . Now we will have to add files to our git we can do it like "git add filename" but it would be too slow as we have already used ".gitignore we can simply add all files and the useless would be ignored by typing "git add . " Through it all the files would be added for git.
+
+6 . Now to commit all the changes we will have to type "git commit -m "my first commit" " Through this we have saved the snapshot of the files .
+7 . To reflect it back on the GitHub we can execute the left two commands left which was shown in GitHub at point number 3.
+
+Git is a simple technology with an easy understandable language used so if you have any problem just read what the error in command line suggests and tells to do so . 

@@ -1,1 +1,12 @@
+as we have already come the commit through "git commit -m "first commit" now the thing i am typing here in another file is another aspect of how the things would be going out 
+fluently
 
+also if we do have numberious files in the package rather than adding them 
+one by one what we can do is we can simply use "git add ." 
+to add all the files in the curent directory 
+ and also we can check all of it  
+
+ so here we can check the status through "git status" and the details about the 
+ commits from "git log"
+ now we have commited "git commit -m "tutorial w and 3""
+ tutorial 2 and 3 is the name of the git commit .
