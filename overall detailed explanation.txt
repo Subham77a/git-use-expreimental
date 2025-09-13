@@ -21,3 +21,10 @@ we need to run the first line to save the link of GitHub on git so that the comm
 7 . To reflect it back on the GitHub we can execute the left two commands left which was shown in GitHub at point number 3.
 
 Git is a simple technology with an easy understandable language used so if you have any problem just read what the error in command line suggests and tells to do so . 
+
+1. About the time when everthing is done and now you just wish to update the current project going on what you shall do is
+2. just add all the files changed in that process bt " git add ." or just by calling a particular file name
+3. after adding it commit the changes you have done till now by "git commit -m "My first commit"
+4. after all this the changes on git on local file has been stored to reflect it back on GitHub you shall do "git push -u origin main"
+
+Congratulations all of the files have been reflected back to the git hub and you progress is hence commited
